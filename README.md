@@ -1,23 +1,22 @@
 # JavaScript Project
 ## Why Learn JavaScript? Why Not
 
-## 📌 Deskripsi
+## 📌 Description
 
-Proyek ini dibuat menggunakan **JavaScript** untuk latihan dan
-pengembangan aplikasi sederhana.
+This project was created using **JavaScript** for practice and the development of simple applications.
 
-## 🚀 Cara Menjalankan
+## 🚀 How to run this Project
 
-1.  Clone repository ini:
+1.  Clone this repository:
 
     ``` bash
     git clone https://github.com/username/repository.git
     cd repository
     ```
 
-2.  Buka file `index.html` di browser untuk menjalankan aplikasi.
+2.  Open file `index.html` in your browser for running application.
 
-## 📂 Struktur Folder
+## 📂 Structure Folder
 
     .
     ├── index.html
